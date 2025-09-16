@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Day83",
+      "request": "launch",
+      "mainClass": "Day83",
+      "projectName": "code_d9aced7b"
+    },
+    {
+      "type": "java",
       "name": "Day82",
       "request": "launch",
       "mainClass": "Day82",
